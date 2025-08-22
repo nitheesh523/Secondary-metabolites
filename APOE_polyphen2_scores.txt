@@ -1,0 +1,9 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+rs7412              	     ?	    ?	    ?	rs7412    	P02649    	   176	  R	  C	 probably damaging	         1	   0.00026	   0.00018
+rs769455            	     ?	    ?	    ?	rs769455  	P02649    	   163	  R	  C	 probably damaging	         1	   0.00026	   0.00018
+rs7412              	     ?	    ?	    ?	rs7412    	P02649    	   176	  R	  C	 probably damaging	         1	   0.00026	   0.00018
+rs429358            	     ?	    ?	    ?	rs429358  	P02649    	   130	  C	  R	            benign	         0	         1	         1
+rs429358            	     ?	    ?	    ?	rs429358  	P02649    	   130	  C	  R	            benign	         0	         1	         1
+rs429358            	     ?	    ?	    ?	rs429358  	P02649    	   130	  C	  R	            benign	         0	         1	         1
+rs769452            	     ?	    ?	    ?	rs769452  	P02649    	    46	  L	  P	 probably damaging	     0.999	   0.00574	     0.136
+## Sources:

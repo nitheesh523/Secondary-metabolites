@@ -1,0 +1,97 @@
+#	dbSNP ID	Protein ID	Substitution	Prediction	Score	Domain-Phenotype Association	Warning	HMM ID	HMM Description	HMM Pos.	HMM Prob. W.	HMM Prob. M.	HMM Weights D.	HMM Weights O.
+1	rs7412	NP_000032.1	R176C	TOLERATED	-0.89	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	97	0.10709810451	0.00416828749576	53.0	32.0
+2	rs440446						No dbSNP Mapping(s)							
+3	rs769455	NP_000032.1	R163C	TOLERATED	-1.00	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	84	0.172829451537	0.00420277608256	53.0	32.0
+4	rs121918393	NP_000032.1	R154S	TOLERATED	-0.95	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	75	0.185871445026	0.0516239276412	53.0	32.0
+5	rs557715042						No dbSNP Mapping(s)							
+6	rs573658040						No dbSNP Mapping(s)							
+7	rs587778876						No dbSNP Mapping(s)							
+8	rs7412	NP_000032.1	R176C	TOLERATED	-0.89	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	97	0.10709810451	0.00416828749576	53.0	32.0
+9	rs440446						No dbSNP Mapping(s)							
+10	rs440446						No dbSNP Mapping(s)							
+11	rs373985746						No dbSNP Mapping(s)							
+12	rs969498572						No dbSNP Mapping(s)							
+13	rs1018669382						No dbSNP Mapping(s)							
+14	rs1599953056						No dbSNP Mapping(s)							
+15	rs429358	NP_000032.1	C130R	TOLERATED	-0.24	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		0053393	Apolipoprotein A-I	52	0.0025172707502	0.299799908055	52.0	31.0
+16	rs429358	NP_000032.1	C130R	TOLERATED	-0.24	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		0053393	Apolipoprotein A-I	52	0.0025172707502	0.299799908055	52.0	31.0
+17	rs429358	NP_000032.1	C130R	TOLERATED	-0.24	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		0053393	Apolipoprotein A-I	52	0.0025172707502	0.299799908055	52.0	31.0
+18	rs767339630						No dbSNP Mapping(s)							
+19	rs769452	NP_000032.1	L46P	DAMAGING	-2.56			Pfam-B_7046		58	0.619724657743	0.00539755071286	18.0	8.0
+20	rs140808909	NP_000032.1	E262K	TOLERATED	-0.81	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	165	0.151668205894	0.101284691458	53.0	32.0
+21	rs190853081	NP_000032.1	E263K	TOLERATED	-0.89	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		0053393	Apolipoprotein A-I	156	0.195884515507	0.112116137834	52.0	31.0
+22	rs772936346						No dbSNP Mapping(s)							
+23	rs867594573						No dbSNP Mapping(s)							
+24	rs121918392	NP_000032.1	E21K	TOLERATED	-1.33			Pfam-B_7046		33	0.226472897286	0.135990533811	18.0	8.0
+25	rs371694216						No dbSNP Mapping(s)							
+26	rs749406635						No dbSNP Mapping(s)							
+27	rs1599951908						No dbSNP Mapping(s)							
+28	rs1599952000						No dbSNP Mapping(s)							
+29	rs1599952085						No dbSNP Mapping(s)							
+30	rs758606895						No dbSNP Mapping(s)							
+31	rs1599951896						No dbSNP Mapping(s)							
+32	rs1599951917						No dbSNP Mapping(s)							
+33	rs1599952017						No dbSNP Mapping(s)							
+34	rs752409518						No dbSNP Mapping(s)							
+35	rs144354013	NP_000032.1	T11S	DAMAGING	-3.18			Pfam-B_7046		23	0.760066005599	0.0320877802145	18.0	8.0
+36	rs144354013	NP_000032.1	T11A	DAMAGING	-3.17			Pfam-B_7046		23	0.760066005599	0.0398357710597	18.0	8.0
+37	rs1377830202						No dbSNP Mapping(s)							
+38	rs757859088						No dbSNP Mapping(s)							
+39	rs1451822560						No dbSNP Mapping(s)							
+40	rs1599953763						No dbSNP Mapping(s)							
+41	rs998239069						No dbSNP Mapping(s)							
+42	rs1599953586						No dbSNP Mapping(s)							
+43	rs753601274						No dbSNP Mapping(s)							
+44	rs954186991						No dbSNP Mapping(s)							
+45	rs1599953509						No dbSNP Mapping(s)							
+46	rs1599953670						No dbSNP Mapping(s)							
+47	rs1599953736						No dbSNP Mapping(s)							
+48	rs1599953786						No dbSNP Mapping(s)							
+49	rs551256627						No dbSNP Mapping(s)							
+50	rs1599954500						No dbSNP Mapping(s)							
+51	rs1599954557						No dbSNP Mapping(s)							
+52	rs1599952025						No dbSNP Mapping(s)							
+53	rs72654468	NP_000032.1	A217A				Synonymous Mutation							
+54	rs748506927						No dbSNP Mapping(s)							
+55	rs1599953980						No dbSNP Mapping(s)							
+56	rs1599953984						No dbSNP Mapping(s)							
+57	rs868094551						No dbSNP Mapping(s)							
+58	rs139948786	NP_000032.1	L69L				Synonymous Mutation							
+59	rs796443813						No dbSNP Mapping(s)							
+60	rs752693941						No dbSNP Mapping(s)							
+61	rs111833428	NP_000032.1	A23A				Synonymous Mutation							
+62	rs1182228267						No dbSNP Mapping(s)							
+63	rs1434405741						No dbSNP Mapping(s)							
+64	rs1341714096						No dbSNP Mapping(s)							
+65	rs781192562						No dbSNP Mapping(s)							
+66	rs11542038	NP_000032.1	T60T				Synonymous Mutation							
+67	rs762461580						No dbSNP Mapping(s)							
+68	rs1599952146						No dbSNP Mapping(s)							
+69	rs1599952157						No dbSNP Mapping(s)							
+70	rs1599952206						No dbSNP Mapping(s)							
+71	rs1398552850						No dbSNP Mapping(s)							
+72	rs1599952243						No dbSNP Mapping(s)							
+73	rs1599952259						No dbSNP Mapping(s)							
+74	rs1599954391						No dbSNP Mapping(s)							
+75	rs201672011	NP_000032.1	E31K	TOLERATED	-1.28			Pfam-B_7046		43	0.308917817575	0.252541421039	18.0	8.0
+76	rs1599954054						No dbSNP Mapping(s)							
+77	rs1599952129						No dbSNP Mapping(s)							
+78	rs1599952264						No dbSNP Mapping(s)							
+79	rs1599954456						No dbSNP Mapping(s)							
+80	rs1599954673						No dbSNP Mapping(s)							
+81	rs1261733138						No dbSNP Mapping(s)							
+82	rs1257978352						No dbSNP Mapping(s)							
+83	rs750138933						No dbSNP Mapping(s)							
+84	rs199768005	NP_000032.1	V254E	TOLERATED	-1.14	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	157	0.260263682089	0.0126296254328	53.0	32.0
+85	rs757100480						No dbSNP Mapping(s)							
+86	rs121918399	NP_000032.1	R43C	DAMAGING	-1.60			Pfam-B_7046		55	0.260151792764	0.003955730468	18.0	8.0
+87	rs563571689						No dbSNP Mapping(s)							
+88	rs1599954305						No dbSNP Mapping(s)							
+89	rs781722239						No dbSNP Mapping(s)							
+90	rs1599953921						No dbSNP Mapping(s)							
+91	rs1599951966						No dbSNP Mapping(s)							
+92	rs992491839						No dbSNP Mapping(s)							
+93	rs1456850869						No dbSNP Mapping(s)							
+94	rs1368598158						No dbSNP Mapping(s)							
+95	rs267606663	NP_000032.1	R242Q	TOLERATED	-0.71	Urinary System Disease|Ischemic Heart Disease|Glucose Metabolism Disease		Apolipoprotein	Apolipoprotein A1/A4/E domain	145	0.119803784937	0.128350561104	53.0	32.0
+96	rs569017773						No dbSNP Mapping(s)							
